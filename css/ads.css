@@ -1,0 +1,18 @@
+.findUs{
+	width: 960px;
+	margin-top: 20px;
+}
+.ads{
+	overflow: hidden;
+	width: 960px;
+	padding-top: 15px;
+}
+.ads img{
+	cursor: pointer;
+}
+.ads .fl{
+	margin-right: 15px;
+}
+.ads .banner{
+	margin-top: 15px;
+}

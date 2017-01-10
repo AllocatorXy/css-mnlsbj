@@ -1,0 +1,21 @@
+.hr_banner{
+	width: 960px;
+	height: 60px;
+	padding-top: 20px;
+}
+.hr_banner .intro{
+	margin-bottom: 5px;
+}
+.hr_banner p{
+	display: block;
+	margin-top: 22px;
+	font-size: 11px;
+	line-height: 13px;
+}
+.hr_banner p a{
+	font-size: 11px;
+	line-height: 11px;
+	padding: 0 11px;
+	color: #787878;
+	border-right: 1px solid #787878;
+}

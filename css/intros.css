@@ -1,0 +1,45 @@
+.intros{
+	width: 960px;
+	height: 530px;
+	padding-top: 10px;
+}
+.intros .intro{
+	margin-left: 15px;
+	margin-bottom: 15px;
+	cursor: pointer;
+}
+
+.guest{
+	width: 960px;
+	height: 836px;
+}
+.guest img{
+	margin-right: 15px;
+	margin-top: 9px;
+	cursor: pointer;
+}
+
+.price{
+	width: 960px;
+	height: 550px;
+}
+.price p{
+	display: block;
+	width: 635px;
+	height: 245px;
+	margin-top: 14px;
+	color: #3c2112;
+	font-size: 12px;
+	line-height: 24px;
+}
+.price img{
+	margin-right: 15px;
+	margin-top: 14px;
+	cursor: pointer;
+}
+.price p span{
+	display: block;
+	margin-bottom: 16px;
+	font-weight: bold;
+	font-size: 16px;
+}

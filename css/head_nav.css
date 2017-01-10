@@ -1,0 +1,41 @@
+h1{
+	display: block;
+	width: 1344px;
+	height: 120px;
+	background: url(../imgs/h1.png);
+}
+
+.head_nav_bg{
+	display: block;
+	height: 40px;
+	width: 1344px;
+	background: url(../imgs/banner_bg.png) repeat-x;
+	border-bottom: 1px solid #c8a898;
+}
+
+.head_nav{
+	width: 70%;
+}
+
+.head_nav li{
+	width: 90px;
+	height: 20px;
+	margin-top: 10px;
+	border-right: 1px solid #74472d;
+}
+.head_nav li a{
+	display: block;
+	text-align: center;
+	margin-top: -10px;
+	line-height: 40px;
+	font-size: 12px;
+	color: #e5d4cb;
+}
+
+.like{
+	width: 44px;
+	height: 24px;
+	float: right;
+	margin-top: 8px;
+	margin-right: 192px;
+}

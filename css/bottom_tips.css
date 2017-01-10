@@ -1,0 +1,79 @@
+.bottomTips{
+	width: 960px;
+	height: 360px;
+}
+.bottomTips .mall{
+	width: 480px;
+	height: 300px;
+	margin-top: 13px;
+}
+.bottomTips .mall li{
+	width: 148px;
+	height: 133px;
+	box-shadow: 0px 1px 1px #888888;
+	border: 1px solid #e5e5e5;
+	margin-right: 10px;
+	margin-bottom: 13px;
+}
+.bottomTips .mall li a{
+	color: #787878;
+	width: 148px;
+	height: 133px;
+}
+.bottomTips .mall li img{
+	padding-top: 10%;
+	width: 60%;
+}
+.bottomTips .mall li a span{
+	display: block;
+	margin-top: 6px;
+	width: 148px;
+	font-size: 11px;
+	text-align: center;
+}
+
+.weiboShow{
+	margin-top: 13px;
+}
+
+.bottomTips .tips{
+	display: block;
+	height: 300px;
+	width: 215px;
+	margin-left: 24px;
+	margin-top: 13px;
+}
+
+/*
+  用默认的小点，若采用list-style-position:inside无法调整小点间距，
+  若outside会被隐藏,
+  所以这里用背景图片来代替默认小点。
+*/
+.bottomTips .tips li{
+	height: 29px;
+	line-height: 29px;
+	color: #787878;
+	font-size: 12px;
+	background: url(../imgs/list-point.png) 0 center no-repeat;
+	padding-left: 7px;
+}
+.bottomTips .tips li a{
+	display: block;
+	color: #787878;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.friendLink{
+	width: 960px;
+	height: 90px;
+	margin-top: -10px;
+}
+.friendLink li{
+	margin-right: 27px;
+}
+.friendLink a{
+	color: #83471d;
+	line-height: 24px;
+}

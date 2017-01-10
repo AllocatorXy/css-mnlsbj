@@ -1,0 +1,25 @@
+.support{
+	width: 1344px;
+	height: 123px;
+	background-color: #3c2112;
+	color: #fff;
+	font-size: 11px;
+	text-align: center;
+}
+
+.support p{
+	padding-top: 20px;
+	line-height: 22px;
+}
+.support a{
+	color: #fff;
+	line-height: 13px;
+	border-right: 1px solid #fff;
+	padding: 0 4px;	
+}
+
+.support img{
+	display: inline-block;
+	margin-bottom: -4px;
+	margin-right: 4px;
+}
